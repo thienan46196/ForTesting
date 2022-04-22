@@ -1,0 +1,23 @@
+{
+  "name": "fortesting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thienan46196/ForTesting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thienan46196/ForTesting/issues"
+  },
+  "homepage": "https://github.com/thienan46196/ForTesting#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "type": "module"
+}
